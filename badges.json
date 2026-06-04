@@ -53,7 +53,7 @@
       "name": "REMUX 1",
       "pattern": "(?i)^(?=.*(?:(?:[_. ]|\\d{4}p-|\\bHybrid-)(?:(?:BD|UHD)[-_. ]?)?Remux\\b|(?:(?:BD|UHD)[-_. ]?)?Remux[_. ]\\d{4}p))(?:(?=.*(?:(?:^\\[(?:BiZKiT|BLURANiUM|CiNEPHiLES|FraMeSToR|PiRAMiDHEAD|WiLDCAT)\\](?=\\s|$|[\\[\\(._-])|^\\((?:BiZKiT|BLURANiUM|CiNEPHiLES|FraMeSToR|PiRAMiDHEAD|WiLDCAT)\\)(?=\\s|$|[\\[\\(._-])|(?:\\[(?:BiZKiT|BLURANiUM|CiNEPHiLES|FraMeSToR|PiRAMiDHEAD|WiLDCAT)\\]|\\((?:BiZKiT|BLURANiUM|CiNEPHiLES|FraMeSToR|PiRAMiDHEAD|WiLDCAT)\\)|(?:(?<=-)|(?<=_)|(?<=\\.)|(?<=\\s-\\s))(?:BiZKiT|BLURANiUM|CiNEPHiLES|FraMeSToR|PiRAMiDHEAD|WiLDCAT)(?:(?:[._-](?:[A-Za-z0-9][A-Za-z0-9+&-]{1,19})){0,3}))(?=$|[\\]\\)](?=$|(?:\\.(?:mkv|mp4|avi|m2ts|ts|wmv|mov|m4v|mpg|mpeg|iso|srt|ass|ssa|sub|idx|sup|rar|zip|7z|nfo)\\b|(?:\\s*[,;|]\\s*|\\s+[•·]\\s+|\\s{2,})))|(?:\\.(?:mkv|mp4|avi|m2ts|ts|wmv|mov|m4v|mpg|mpeg|iso|srt|ass|ssa|sub|idx|sup|rar|zip|7z|nfo)\\b|(?:\\s*[,;|]\\s*|\\s+[•·]\\s+|\\s{2,}))))|(?:^\\[(?:3L|BMF|PmP|ZQ)\\](?=\\s|$|[\\[\\(._-])|^\\((?:3L|BMF|PmP|ZQ)\\)(?=\\s|$|[\\[\\(._-])|(?:\\[(?:3L|BMF|PmP|ZQ)\\]|\\((?:3L|BMF|PmP|ZQ)\\)|(?:(?<=-)|(?<=_)|(?<=\\.))(?:3L|BMF|PmP|ZQ))(?=$|[\\]\\)](?=$|(?:\\.(?:mkv|mp4|avi|m2ts|ts|wmv|mov|m4v|mpg|mpeg|iso|srt|ass|ssa|sub|idx|sup|rar|zip|7z|nfo)\\b|(?:\\s*[,;|]\\s*|\\s+[•·]\\s+|\\s{2,})))|(?:\\.(?:mkv|mp4|avi|m2ts|ts|wmv|mov|m4v|mpg|mpeg|iso|srt|ass|ssa|sub|idx|sup|rar|zip|7z|nfo)\\b|(?:\\s*[,;|]\\s*|\\s+[•·]\\s+|\\s{2,}))))))).*$",
       "tagColor": "#ffffff",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
